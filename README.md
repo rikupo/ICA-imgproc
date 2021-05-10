@@ -4,7 +4,10 @@ RGB画像をグレイスケールに白色化，標準化した後に独立成�
 差分画像へ閾値処理を施し移動物体の領域を推定する
 
 # 実行例
-<img src="image/input1.png" width=30%>
+<img src="image/input1.png" width=15%>
+<img src="image/input2ng" width=15%>
 
-<img src="result/rm2-1.jpeg" width=30%>
+<img src="image/out1.png" width=15%>
+<img src="image/out2.png" width=15%>
 
+<img src="image/threshed.png" width=15%>
