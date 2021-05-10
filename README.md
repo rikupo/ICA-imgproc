@@ -5,9 +5,9 @@ RGB画像をグレイスケールに白色化，標準化した後に独立成�
 
 # 実行例
 <img src="image/input1.png" width=15%>
-<img src="image/input2ng" width=15%>
+<img src="image/input2.png" width=15%>
 
 <img src="image/out1.png" width=15%>
 <img src="image/out2.png" width=15%>
 
-<img src="image/threshed.png" width=15%>
+<img src="image/Threshed.png" width=15%>
